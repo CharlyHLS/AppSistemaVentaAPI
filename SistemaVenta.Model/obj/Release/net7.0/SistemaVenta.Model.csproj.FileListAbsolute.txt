@@ -1,0 +1,14 @@
+C:\Users\HLS264\OneDrive - HLS GROUP S.A DE C.V\Escritorio\Pruebas\APISistemaVenta\SistemaVenta.Model\bin\Release\net7.0\SistemaVenta.Model.deps.json
+C:\Users\HLS264\OneDrive - HLS GROUP S.A DE C.V\Escritorio\Pruebas\APISistemaVenta\SistemaVenta.Model\bin\Release\net7.0\SistemaVenta.Model.runtimeconfig.json
+C:\Users\HLS264\OneDrive - HLS GROUP S.A DE C.V\Escritorio\Pruebas\APISistemaVenta\SistemaVenta.Model\bin\Release\net7.0\SistemaVenta.Model.dll
+C:\Users\HLS264\OneDrive - HLS GROUP S.A DE C.V\Escritorio\Pruebas\APISistemaVenta\SistemaVenta.Model\bin\Release\net7.0\SistemaVenta.Model.pdb
+C:\Users\HLS264\OneDrive - HLS GROUP S.A DE C.V\Escritorio\Pruebas\APISistemaVenta\SistemaVenta.Model\obj\Release\net7.0\SistemaVenta.Model.csproj.AssemblyReference.cache
+C:\Users\HLS264\OneDrive - HLS GROUP S.A DE C.V\Escritorio\Pruebas\APISistemaVenta\SistemaVenta.Model\obj\Release\net7.0\SistemaVenta.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HLS264\OneDrive - HLS GROUP S.A DE C.V\Escritorio\Pruebas\APISistemaVenta\SistemaVenta.Model\obj\Release\net7.0\SistemaVenta.Model.AssemblyInfoInputs.cache
+C:\Users\HLS264\OneDrive - HLS GROUP S.A DE C.V\Escritorio\Pruebas\APISistemaVenta\SistemaVenta.Model\obj\Release\net7.0\SistemaVenta.Model.AssemblyInfo.cs
+C:\Users\HLS264\OneDrive - HLS GROUP S.A DE C.V\Escritorio\Pruebas\APISistemaVenta\SistemaVenta.Model\obj\Release\net7.0\SistemaVenta.Model.csproj.CoreCompileInputs.cache
+C:\Users\HLS264\OneDrive - HLS GROUP S.A DE C.V\Escritorio\Pruebas\APISistemaVenta\SistemaVenta.Model\obj\Release\net7.0\SistemaVenta.Model.dll
+C:\Users\HLS264\OneDrive - HLS GROUP S.A DE C.V\Escritorio\Pruebas\APISistemaVenta\SistemaVenta.Model\obj\Release\net7.0\refint\SistemaVenta.Model.dll
+C:\Users\HLS264\OneDrive - HLS GROUP S.A DE C.V\Escritorio\Pruebas\APISistemaVenta\SistemaVenta.Model\obj\Release\net7.0\SistemaVenta.Model.pdb
+C:\Users\HLS264\OneDrive - HLS GROUP S.A DE C.V\Escritorio\Pruebas\APISistemaVenta\SistemaVenta.Model\obj\Release\net7.0\SistemaVenta.Model.genruntimeconfig.cache
+C:\Users\HLS264\OneDrive - HLS GROUP S.A DE C.V\Escritorio\Pruebas\APISistemaVenta\SistemaVenta.Model\obj\Release\net7.0\ref\SistemaVenta.Model.dll

@@ -1,0 +1,12 @@
+C:\Users\HLS264\OneDrive - HLS GROUP S.A DE C.V\Escritorio\Pruebas\APISistemaVenta\SistemaVenta.DTO\bin\Release\net7.0\SistemaVenta.DTO.deps.json
+C:\Users\HLS264\OneDrive - HLS GROUP S.A DE C.V\Escritorio\Pruebas\APISistemaVenta\SistemaVenta.DTO\bin\Release\net7.0\SistemaVenta.DTO.dll
+C:\Users\HLS264\OneDrive - HLS GROUP S.A DE C.V\Escritorio\Pruebas\APISistemaVenta\SistemaVenta.DTO\bin\Release\net7.0\SistemaVenta.DTO.pdb
+C:\Users\HLS264\OneDrive - HLS GROUP S.A DE C.V\Escritorio\Pruebas\APISistemaVenta\SistemaVenta.DTO\obj\Release\net7.0\SistemaVenta.DTO.csproj.AssemblyReference.cache
+C:\Users\HLS264\OneDrive - HLS GROUP S.A DE C.V\Escritorio\Pruebas\APISistemaVenta\SistemaVenta.DTO\obj\Release\net7.0\SistemaVenta.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HLS264\OneDrive - HLS GROUP S.A DE C.V\Escritorio\Pruebas\APISistemaVenta\SistemaVenta.DTO\obj\Release\net7.0\SistemaVenta.DTO.AssemblyInfoInputs.cache
+C:\Users\HLS264\OneDrive - HLS GROUP S.A DE C.V\Escritorio\Pruebas\APISistemaVenta\SistemaVenta.DTO\obj\Release\net7.0\SistemaVenta.DTO.AssemblyInfo.cs
+C:\Users\HLS264\OneDrive - HLS GROUP S.A DE C.V\Escritorio\Pruebas\APISistemaVenta\SistemaVenta.DTO\obj\Release\net7.0\SistemaVenta.DTO.csproj.CoreCompileInputs.cache
+C:\Users\HLS264\OneDrive - HLS GROUP S.A DE C.V\Escritorio\Pruebas\APISistemaVenta\SistemaVenta.DTO\obj\Release\net7.0\SistemaVenta.DTO.dll
+C:\Users\HLS264\OneDrive - HLS GROUP S.A DE C.V\Escritorio\Pruebas\APISistemaVenta\SistemaVenta.DTO\obj\Release\net7.0\refint\SistemaVenta.DTO.dll
+C:\Users\HLS264\OneDrive - HLS GROUP S.A DE C.V\Escritorio\Pruebas\APISistemaVenta\SistemaVenta.DTO\obj\Release\net7.0\SistemaVenta.DTO.pdb
+C:\Users\HLS264\OneDrive - HLS GROUP S.A DE C.V\Escritorio\Pruebas\APISistemaVenta\SistemaVenta.DTO\obj\Release\net7.0\ref\SistemaVenta.DTO.dll
